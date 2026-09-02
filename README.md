@@ -74,11 +74,6 @@ Common Reliability Enumerations — building shared standards for reliability, w
 
 ## 📊 The Receipts
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ani-4x&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C6FF&icon_color=00C6FF" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ani-4x&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C6FF" height="165"/>
-</div>
-
 <br>
 
 <div align="center">
